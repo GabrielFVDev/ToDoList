@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todolist/config/routes/router.dart';
+import 'package:todolist/config/router.dart';
 
 class ToDoApp extends StatelessWidget {
   const ToDoApp({super.key});
