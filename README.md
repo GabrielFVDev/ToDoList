@@ -18,4 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 
 # Arquitetura
 
-MVC (Model - View - Controller)
+MVVM (Model - View - ViewModel)
+
+# Dependencias
+
+- Dio 
+- Sqflite (Persistencia local)
+- GoRouter (Navegação)
