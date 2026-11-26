@@ -20,8 +20,12 @@ samples, guidance on mobile development, and a full API reference.
 
 MVVM (Model - View - ViewModel)
 
+* Camada de banco de dados local (Database)
+
 # Dependencias
 
 - Dio 
-- Sqflite (Persistencia local)
+- Path
+- Drift (Persistencia local)
 - GoRouter (Navegação)
+- Buildrunner
