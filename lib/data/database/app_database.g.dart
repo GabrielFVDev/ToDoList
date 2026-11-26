@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'todo_items.dart';
+part of 'app_database.dart';
 
 // ignore_for_file: type=lint
 class $TodoItemsTable extends TodoItems
